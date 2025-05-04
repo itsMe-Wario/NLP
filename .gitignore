@@ -1,0 +1,16 @@
+# Python environments
+.venv/
+.myenv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Your custom folder
+Texts Files/
+temp/
